@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  /* flex-wrap: wrap; */
+  align-items: center;
+}
+.cd1 {
+  border: 1px solid black;
+  /* display: block; */
+  width: 500px;
+  height: 500px;
+}
+
+.cd2 {
+  border: 1px solid black;
+  /* display: block; */
+  width: 500px;
+  height: 500px;
+}
+.canvas-demo {
+  display: none;
+}
+
+.btn-change {
+  display: flex;
+  justify-content: center;
+}
